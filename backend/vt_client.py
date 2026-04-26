@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_KEY = "399fffc3687d3277cf580b2a5f2e9cf67d2df9c401ce139c8681371a71aaf11f"
+API_KEY = " paste your api key "
 
 BASE_URL = "https://www.virustotal.com/api/v3"
 
